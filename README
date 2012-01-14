@@ -1,3 +1,6 @@
 [neoapi]
 This is a simple GUI that calls the NeoSpeech API and creates audio from the inputed text.
 Audio files are created in the audio_files folder of the installed directory
+
+[Configuration]
+edit the neoapi.exe.config file and update the server key to point to your speech server.
